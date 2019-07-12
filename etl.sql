@@ -1,0 +1,2 @@
+SELECT "State", "County", "Population", "MedianHouseHoldIncome", "UnemploymentRate", "DiversityIndex", "AmericanIndian", "Asian", "Black", "Hispanic", "NativeHawaiian", "White", "TwoOrMore"
+FROM public."merged_ETL";
