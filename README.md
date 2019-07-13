@@ -14,7 +14,7 @@ e.	Project duration: 1 week
 
 #ETL Project
 
-Suumary of the ETL Project : 
+Summary of the ETL Project : 
 Extraction from multiple data sets which has a csv file types, then use pandas for the Transformation process. Data Cleanup & Analysis  was also done through pandas. 
 Merged all the three data sets via pandas as well. Finally loaded the transformed data frame in to postgre sql table, after creating it using postgre sql. 
 
